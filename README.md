@@ -15,3 +15,6 @@ Libraries such as pandas, Numpy, matplotlib, and seaborn are the most commonly u
 ## Result Preview 
 By Hyperparameter Tuning, it is found that Logistic Regression gives the best result compared to Random Forest with precision 99% and F1-score 95.7%
 
+![Confusion Matrik Logistic Regression Tuned](https://user-images.githubusercontent.com/103879211/193762063-e126101d-fab8-41ca-9675-cf734e5fd488.png)
+
+Our Best model Logistic Regression correctly predicted 96 of the 104 frauds and it's not wrong mark fraud when people aren't cheating
