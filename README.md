@@ -2,6 +2,8 @@
 
 The Credit Crad Fraud base dataset used in this work is made available by MACHINE LEARNING GROUP and downloaded from Kaggle. This dataset presents transactions that occurred in two days, where we have 492 frauds out of 284,807 transactions. The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions. Link for the dataset : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?datasetId=310&sortBy=voteCount. 
 
+![Libraries](https://user-images.githubusercontent.com/103879211/193762065-dac98673-1ca8-4731-8a3c-1977f522d079.jpg)
+
 ## Objectives
 This work is acrried out to answer this problem :
 1. How to identify the new transaction is fraudlent or not?
